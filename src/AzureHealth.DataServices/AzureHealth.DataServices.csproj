@@ -10,10 +10,10 @@
     <Authors>Microsoft</Authors>
 
     <TargetFramework>net6.0</TargetFramework>
-    <AssemblyName>Azure.Health.DataServices.Sdk</AssemblyName>
+    <AssemblyName>AzureHealth.DataServices.Sdk</AssemblyName>
 
     <Title>Azure Health Data Services Sdk Core library</Title>
-    <PackageId>Azure.Health.DataServices.Core</PackageId>
+    <PackageId>AzureHealth.DataServices.Core</PackageId>
     <PackageTags>microsoft;azure;azurehealthdataservices;healthdataservices;fhir;</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Azure/health-data-services-sdk/</PackageProjectUrl>
@@ -32,7 +32,7 @@
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <RootNamespace>Azure.Health.DataServices</RootNamespace>
+    <RootNamespace>AzureHealth.DataServices</RootNamespace>
     <Optimize Condition="'$(Configuration)'=='Release'">true</Optimize>
   </PropertyGroup>
 

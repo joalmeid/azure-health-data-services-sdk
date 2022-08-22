@@ -2,9 +2,9 @@
 
 
 using Azure.Messaging.EventGrid;
-using Azure.Health.DataServices.Channels;
-using Azure.Health.DataServices.Configuration;
-using Azure.Health.DataServices.Pipelines;
+using AzureHealth.DataServices.Channels;
+using AzureHealth.DataServices.Configuration;
+using AzureHealth.DataServices.Pipelines;
 using EventGridChannelSample;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

@@ -1,7 +1,7 @@
 ﻿
 
-using Azure.Health.DataServices.Channels;
-using Azure.Health.DataServices.Pipelines;
+using AzureHealth.DataServices.Channels;
+using AzureHealth.DataServices.Pipelines;
 
 namespace ServiceBusChannelSample
 {

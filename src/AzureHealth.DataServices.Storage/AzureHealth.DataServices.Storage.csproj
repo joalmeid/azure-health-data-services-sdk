@@ -10,10 +10,10 @@
     <Authors>Microsoft</Authors>
 
     <TargetFramework>net6.0</TargetFramework>
-    <AssemblyName>Azure.Health.DataServices.Sdk.Storage</AssemblyName>
+    <AssemblyName>AzureHealth.DataServices.Sdk.Storage</AssemblyName>
 
     <Title>Azure Health Data Services Sdk Storage library</Title>
-    <PackageId>Azure.Health.DataServices.Storage</PackageId>
+    <PackageId>AzureHealth.DataServices.Storage</PackageId>
     <PackageTags>microsoft;azure;azurehealthdataservices;healthdataservices;fhir;</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Azure/health-data-services-sdk/</PackageProjectUrl>
@@ -33,7 +33,7 @@
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <RootNamespace>Azure.Health.DataServices.Storage</RootNamespace>
+    <RootNamespace>AzureHealth.DataServices.Storage</RootNamespace>
     <Optimize Condition="'$(Configuration)'=='Release'">true</Optimize>
   </PropertyGroup>
 

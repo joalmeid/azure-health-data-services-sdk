@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net.Http;
 using System.Text;
-using Azure.Health.DataServices.Pipelines;
+using AzureHealth.DataServices.Pipelines;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AzureHealth.DataServices.Tests.Proxy

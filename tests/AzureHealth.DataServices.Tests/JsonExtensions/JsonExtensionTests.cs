@@ -1,5 +1,5 @@
 ﻿using System.IO;
-using Azure.Health.DataServices.Json;
+using AzureHealth.DataServices.Json;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json.Linq;
 

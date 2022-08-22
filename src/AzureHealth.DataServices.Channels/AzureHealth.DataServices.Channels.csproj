@@ -10,10 +10,10 @@
     <Authors>Microsoft</Authors>
 
     <TargetFramework>net6.0</TargetFramework>
-    <AssemblyName>Azure.Health.DataServices.Sdk.Channels</AssemblyName>
+    <AssemblyName>AzureHealth.DataServices.Sdk.Channels</AssemblyName>
 
     <Title>Azure Health Data Services Sdk Channels Extension library</Title>
-    <PackageId>Azure.Health.DataServices.Channels.Extensions</PackageId>
+    <PackageId>AzureHealth.DataServices.Channels.Extensions</PackageId>
     <PackageTags>microsoft;azure;azurehealthdataservices;healthdataservices;fhir;</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Azure/health-data-services-sdk/</PackageProjectUrl>
@@ -32,7 +32,7 @@
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <RootNamespace>Azure.Health.DataServices.Channels</RootNamespace>
+    <RootNamespace>AzureHealth.DataServices.Channels</RootNamespace>
     <Optimize Condition="'$(Configuration)'=='Release'">true</Optimize>
   </PropertyGroup>
 
@@ -50,7 +50,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Azure.Health.DataServices.Storage\Azure.Health.DataServices.Storage.csproj" />
-    <ProjectReference Include="..\Azure.Health.DataServices\Azure.Health.DataServices.csproj" />
+    <ProjectReference Include="..\AzureHealth.DataServices.Storage\AzureHealth.DataServices.Storage.csproj" />
+    <ProjectReference Include="..\AzureHealth.DataServices\AzureHealth.DataServices.csproj" />
   </ItemGroup>
 </Project>

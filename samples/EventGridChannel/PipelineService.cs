@@ -1,7 +1,7 @@
 ﻿using Azure.Messaging.EventGrid;
 using Azure.Storage.Queues.Models;
-using Azure.Health.DataServices.Pipelines;
-using Azure.Health.DataServices.Storage;
+using AzureHealth.DataServices.Pipelines;
+using AzureHealth.DataServices.Storage;
 using Microsoft.Extensions.Logging;
 using System.Text;
 

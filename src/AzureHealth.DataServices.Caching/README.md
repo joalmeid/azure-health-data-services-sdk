@@ -1,4 +1,4 @@
-## Azure.Health.DataServices.Caching
+## AzureHealth.DataServices.Caching
 
 ### Overview
 .NET 6 SDK for creating custom operations for FHIR in Azure Health Data Services. Using in-memory caching with persistent storage providers as backing stores using either Azure Blob storage or Redis cache.

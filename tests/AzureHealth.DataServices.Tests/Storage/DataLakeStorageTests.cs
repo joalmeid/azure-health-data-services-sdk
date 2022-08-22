@@ -2,7 +2,7 @@
 using System.Collections.Concurrent;
 using System.Text;
 using System.Threading.Tasks;
-using Azure.Health.DataServices.Storage;
+using AzureHealth.DataServices.Storage;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.VisualStudio.TestTools.UnitTesting;

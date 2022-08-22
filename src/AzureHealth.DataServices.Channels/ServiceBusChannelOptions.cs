@@ -1,4 +1,4 @@
-﻿using Azure.Health.DataServices.Pipelines;
+﻿using AzureHealth.DataServices.Pipelines;
 
 namespace AzureHealth.DataServices.Channels
 {

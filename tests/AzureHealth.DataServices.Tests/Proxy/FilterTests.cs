@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
-using Azure.Health.DataServices.Filters;
-using Azure.Health.DataServices.Tests.Assets;
+using AzureHealth.DataServices.Filters;
+using AzureHealth.DataServices.Tests.Assets;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AzureHealth.DataServices.Tests.Proxy

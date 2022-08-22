@@ -1,4 +1,4 @@
-﻿using Azure.Health.DataServices.Json;
+﻿using AzureHealth.DataServices.Json;
 using Newtonsoft.Json.Linq;
 
 namespace AzureHealth.DataServices.Commands

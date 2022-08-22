@@ -1,7 +1,7 @@
 ﻿
-using Azure.Health.DataServices.Channels;
-using Azure.Health.DataServices.Configuration;
-using Azure.Health.DataServices.Pipelines;
+using AzureHealth.DataServices.Channels;
+using AzureHealth.DataServices.Configuration;
+using AzureHealth.DataServices.Pipelines;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;

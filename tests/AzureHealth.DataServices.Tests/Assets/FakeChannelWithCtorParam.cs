@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Azure.Health.DataServices.Channels;
-using Azure.Health.DataServices.Pipelines;
+using AzureHealth.DataServices.Channels;
+using AzureHealth.DataServices.Pipelines;
 
 namespace AzureHealth.DataServices.Tests.Assets
 {

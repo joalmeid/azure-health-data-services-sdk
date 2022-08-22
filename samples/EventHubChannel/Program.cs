@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Azure.Health.DataServices.Channels;
-using Azure.Health.DataServices.Configuration;
+using AzureHealth.DataServices.Channels;
+using AzureHealth.DataServices.Configuration;
 using EventHubChannelSample;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

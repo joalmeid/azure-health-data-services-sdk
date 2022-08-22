@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Net.Http;
-using Azure.Health.DataServices.Bindings;
-using Azure.Health.DataServices.Channels;
-using Azure.Health.DataServices.Clients.Headers;
-using Azure.Health.DataServices.Filters;
-using Azure.Health.DataServices.Pipelines;
-using Azure.Health.DataServices.Security;
+using AzureHealth.DataServices.Bindings;
+using AzureHealth.DataServices.Channels;
+using AzureHealth.DataServices.Clients.Headers;
+using AzureHealth.DataServices.Filters;
+using AzureHealth.DataServices.Pipelines;
+using AzureHealth.DataServices.Security;
 using Microsoft.ApplicationInsights;
 using Microsoft.ApplicationInsights.Extensibility;
 using Microsoft.Azure.Functions.Worker.Http;

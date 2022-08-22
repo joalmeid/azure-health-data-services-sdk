@@ -1,4 +1,4 @@
-## Azure.Health.DataServices.Storage
+## AzureHealth.DataServices.Storage
 
 ### Overview
 .NET 6 SDK for creating custom operations for FHIR in Azure Health Data Services.

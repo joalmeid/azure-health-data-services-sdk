@@ -1,4 +1,4 @@
-using Azure.Health.DataServices.Pipelines;
+using AzureHealth.DataServices.Pipelines;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;

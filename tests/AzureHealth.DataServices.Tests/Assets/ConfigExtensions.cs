@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Reflection;
-using Azure.Health.DataServices.Tests.Configuration;
+using AzureHealth.DataServices.Tests.Configuration;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 

@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 using Azure;
 using Azure.Identity;
 using Azure.Security.KeyVault.Certificates;
-using Azure.Health.DataServices.Clients;
-using Azure.Health.DataServices.Tests.Assets;
-using Azure.Health.DataServices.Tests.Configuration;
+using AzureHealth.DataServices.Clients;
+using AzureHealth.DataServices.Tests.Assets;
+using AzureHealth.DataServices.Tests.Configuration;
 using Microsoft.Extensions.Configuration;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

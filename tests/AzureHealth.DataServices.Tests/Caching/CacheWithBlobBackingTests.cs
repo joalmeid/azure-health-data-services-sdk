@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Reflection;
 using System.Threading.Tasks;
-using Azure.Health.DataServices.Caching;
-using Azure.Health.DataServices.Storage;
-using Azure.Health.DataServices.Tests.Assets;
-using Azure.Health.DataServices.Tests.Configuration;
+using AzureHealth.DataServices.Caching;
+using AzureHealth.DataServices.Storage;
+using AzureHealth.DataServices.Tests.Assets;
+using AzureHealth.DataServices.Tests.Configuration;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;

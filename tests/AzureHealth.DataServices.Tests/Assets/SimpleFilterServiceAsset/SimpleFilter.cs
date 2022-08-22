@@ -3,10 +3,10 @@ using System.Collections.Specialized;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Azure.Health.DataServices.Clients;
-using Azure.Health.DataServices.Clients.Headers;
-using Azure.Health.DataServices.Filters;
-using Azure.Health.DataServices.Pipelines;
+using AzureHealth.DataServices.Clients;
+using AzureHealth.DataServices.Clients.Headers;
+using AzureHealth.DataServices.Filters;
+using AzureHealth.DataServices.Pipelines;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 

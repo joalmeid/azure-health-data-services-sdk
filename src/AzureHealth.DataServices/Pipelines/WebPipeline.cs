@@ -2,10 +2,10 @@
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Azure.Health.DataServices.Bindings;
-using Azure.Health.DataServices.Channels;
-using Azure.Health.DataServices.Filters;
-using Azure.Health.DataServices.Pipelines;
+using AzureHealth.DataServices.Bindings;
+using AzureHealth.DataServices.Channels;
+using AzureHealth.DataServices.Filters;
+using AzureHealth.DataServices.Pipelines;
 using Microsoft.ApplicationInsights;
 using Microsoft.Extensions.Logging;
 

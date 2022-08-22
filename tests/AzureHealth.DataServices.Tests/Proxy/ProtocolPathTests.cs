@@ -1,5 +1,5 @@
 ﻿using System;
-using Azure.Health.DataServices.Protocol;
+using AzureHealth.DataServices.Protocol;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AzureHealth.DataServices.Tests.Proxy

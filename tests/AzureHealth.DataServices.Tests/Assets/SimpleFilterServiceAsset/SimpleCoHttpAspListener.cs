@@ -1,5 +1,5 @@
-﻿using Azure.Health.DataServices.Clients.Headers;
-using Azure.Health.DataServices.Configuration;
+﻿using AzureHealth.DataServices.Clients.Headers;
+using AzureHealth.DataServices.Configuration;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.Extensions.DependencyInjection;

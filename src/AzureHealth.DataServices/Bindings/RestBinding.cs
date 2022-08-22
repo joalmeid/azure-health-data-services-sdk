@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Specialized;
 using System.Threading.Tasks;
-using Azure.Health.DataServices.Clients;
-using Azure.Health.DataServices.Clients.Headers;
-using Azure.Health.DataServices.Pipelines;
-using Azure.Health.DataServices.Security;
+using AzureHealth.DataServices.Clients;
+using AzureHealth.DataServices.Clients.Headers;
+using AzureHealth.DataServices.Pipelines;
+using AzureHealth.DataServices.Security;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 

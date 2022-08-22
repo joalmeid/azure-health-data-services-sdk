@@ -1,5 +1,5 @@
 ﻿using System.Reflection;
-using Azure.Health.DataServices.Channels;
+using AzureHealth.DataServices.Channels;
 using Microsoft.Extensions.Configuration;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

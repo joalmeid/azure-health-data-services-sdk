@@ -6,8 +6,8 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Azure.Storage.Blobs.Models;
-using Azure.Health.DataServices.Storage;
-using Azure.Health.DataServices.Tests.Configuration;
+using AzureHealth.DataServices.Storage;
+using AzureHealth.DataServices.Tests.Configuration;
 using Microsoft.Extensions.Configuration;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

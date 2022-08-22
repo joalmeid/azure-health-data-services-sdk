@@ -1,8 +1,8 @@
 ﻿using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using Azure.Health.DataServices.Json;
-using Azure.Health.DataServices.Json.Transforms;
+using AzureHealth.DataServices.Json;
+using AzureHealth.DataServices.Json.Transforms;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;

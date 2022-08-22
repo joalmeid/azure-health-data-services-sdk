@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Azure.Health.DataServices.Channels;
-using Azure.Health.DataServices.Tests.Assets;
+using AzureHealth.DataServices.Channels;
+using AzureHealth.DataServices.Tests.Assets;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AzureHealth.DataServices.Tests.Proxy

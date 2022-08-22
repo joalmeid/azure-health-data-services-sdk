@@ -1,4 +1,4 @@
-﻿using Azure.Health.DataServices.Channels;
+﻿using AzureHealth.DataServices.Channels;
 
 namespace ServiceBusChannelSample
 {

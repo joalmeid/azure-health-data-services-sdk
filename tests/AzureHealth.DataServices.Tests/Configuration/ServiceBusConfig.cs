@@ -1,5 +1,5 @@
 ﻿using System;
-using Azure.Health.DataServices.Channels;
+using AzureHealth.DataServices.Channels;
 using Newtonsoft.Json;
 
 namespace AzureHealth.DataServices.Tests.Configuration

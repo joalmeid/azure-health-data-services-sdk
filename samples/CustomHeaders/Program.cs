@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using CustomHeadersSample;
-using Azure.Health.DataServices.Clients.Headers;
-using Azure.Health.DataServices.Configuration;
+using AzureHealth.DataServices.Clients.Headers;
+using AzureHealth.DataServices.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Collections.Specialized;

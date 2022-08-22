@@ -1,5 +1,5 @@
 ﻿using System.Collections.Concurrent;
-using Azure.Health.DataServices.Caching.StorageProviders;
+using AzureHealth.DataServices.Caching.StorageProviders;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;

@@ -1,9 +1,9 @@
-﻿using Azure.Health.DataServices.Clients;
-using Azure.Health.DataServices.Filters;
-using Azure.Health.DataServices.Json;
-using Azure.Health.DataServices.Pipelines;
-using Azure.Health.DataServices.Protocol;
-using Azure.Health.DataServices.Security;
+﻿using AzureHealth.DataServices.Clients;
+using AzureHealth.DataServices.Filters;
+using AzureHealth.DataServices.Json;
+using AzureHealth.DataServices.Pipelines;
+using AzureHealth.DataServices.Protocol;
+using AzureHealth.DataServices.Security;
 using Microsoft.ApplicationInsights;
 using Microsoft.ApplicationInsights.DataContracts;
 using Microsoft.Extensions.Logging;

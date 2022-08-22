@@ -3,11 +3,11 @@ using System.IO;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Azure.Health.DataServices.Clients;
-using Azure.Health.DataServices.Clients.Headers;
-using Azure.Health.DataServices.Tests.Assets;
-using Azure.Health.DataServices.Tests.Assets.SimpleFilterServiceAsset;
-using Azure.Health.DataServices.Tests.Assets.SimpleWebServiceAsset;
+using AzureHealth.DataServices.Clients;
+using AzureHealth.DataServices.Clients.Headers;
+using AzureHealth.DataServices.Tests.Assets;
+using AzureHealth.DataServices.Tests.Assets.SimpleFilterServiceAsset;
+using AzureHealth.DataServices.Tests.Assets.SimpleWebServiceAsset;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 

@@ -1,4 +1,4 @@
-﻿using Azure.Health.DataServices.Caching.StorageProviders;
+﻿using AzureHealth.DataServices.Caching.StorageProviders;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AzureHealth.DataServices.Caching

@@ -4,7 +4,7 @@ using System.Collections.Specialized;
 using System.Linq;
 using System.Net.Http;
 using System.Security.Claims;
-using Azure.Health.DataServices.Pipelines;
+using AzureHealth.DataServices.Pipelines;
 
 namespace AzureHealth.DataServices.Clients.Headers
 {

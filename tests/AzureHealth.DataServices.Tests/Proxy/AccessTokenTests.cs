@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
 using System.Threading.Tasks;
 using Azure.Identity;
-using Azure.Health.DataServices.Configuration;
-using Azure.Health.DataServices.Security;
-using Azure.Health.DataServices.Tests.Configuration;
+using AzureHealth.DataServices.Configuration;
+using AzureHealth.DataServices.Security;
+using AzureHealth.DataServices.Tests.Configuration;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;

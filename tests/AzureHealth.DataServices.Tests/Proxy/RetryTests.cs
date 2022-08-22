@@ -3,8 +3,8 @@ using System.Collections.Specialized;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using Azure.Health.DataServices.Clients;
-using Azure.Health.DataServices.Tests.Assets;
+using AzureHealth.DataServices.Clients;
+using AzureHealth.DataServices.Tests.Assets;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AzureHealth.DataServices.Tests.Proxy
