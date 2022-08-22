@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
+using Azure.Storage.Blobs.Models;
 using AzureHealth.DataServices.Channels;
 using AzureHealth.DataServices.Pipelines;
 using AzureHealth.DataServices.Storage;
-using Azure.Storage.Blobs.Models;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
