@@ -7,6 +7,9 @@ parameters:
     default: true
   - name: PackagePrefix
     default: AzureHealth.DataServices
+  - name: RepositoryName
+    default: microsoft/azure-health-data-services-sdk
+
 
 stages:
 
@@ -109,8 +112,8 @@ stages:
             - task: GithubRelease@1 
               displayName: 'Create GitHub Release'
               inputs:
-                gitHubConnection: 'Github (azure/health-data-services-sdk)'
-                repositoryName: azure/health-data-services-sdk
+                gitHubConnection: 'Github (${{ parameters.RepositoryName }})'
+                repositoryName: ${{ parameters.RepositoryName }}
                 action: 'create'
                 tagSource: userSpecifiedTag
                 tag: release/${{ parameters.PackageVersion }}
