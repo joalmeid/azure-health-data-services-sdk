@@ -78,6 +78,8 @@ module function './azureFunction.bicep'= if (fhirdeployZone) {
     location: location
     appInsightsInstrumentationKey: fhirdeployZone ? monitoring.outputs.appInsightsInstrumentationKey : ''   
     appTags: appTags
+    workspaceName: workspaceName
+    fhirServiceName : fhirServiceName
   }
 }
 
@@ -179,6 +181,7 @@ module keyVault './KeyVault.bicep' = if (keyVaultDeployZone) {
 
 output FhirServiceId string = fhirdeployZone ? fhir.outputs.fhirId : ''
 output FhirServiceUrl string = fhirdeployZone ? 'https://${workspaceName}-${fhirServiceName}.fhir.azurehealthcareapis.com': ''
+output appInsightsInstrumentationKey string = fhirdeployZone ? monitoring.outputs.appInsightsInstrumentationKey : ''
 output BlobStorageConnectionString string = StoragedeployZone ? storageAccount.outputs.blobStorageConnectionString : ''
 output BlobContainerName string = StoragedeployZone ? storageAccount.outputs.blobContainerName : ''
 output EventGridTopicEndpoint string = eventGriddeployZone ? eventGrid.outputs.eventGridTopicEndpoint : ''
