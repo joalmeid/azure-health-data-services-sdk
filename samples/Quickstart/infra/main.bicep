@@ -36,7 +36,7 @@ module template '../../../infra/main.bicep'= {
     location: location
     additionalTags: appTags
     fhirContributorPrincipals: [principalId]
-	  fhirdeployZone: true
+    fhirdeployZone: true
   }
 }
 
